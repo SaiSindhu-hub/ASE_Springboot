@@ -1,10 +1,10 @@
-package com.naveen;
+package com.sindhu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NaveenApplicationTests {
+class SindhuApplicationTests {
 
 	@Test
 	void contextLoads() {
